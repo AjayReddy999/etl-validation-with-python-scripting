@@ -9,7 +9,6 @@ Cross DB ETL Validation (Oracle to postgresql) with python scripting
 * [Data Validation](#data-validation)
 * [Maintainer](#maintainer)
 
-
 ## Overview
 
 Design and Develop ETL pipeline from Oracle to Postgresql using informatica Powercenter.
@@ -61,16 +60,7 @@ Perform ETL validation using Python scripting.
 
 ## Maintainer
 
-- [Chinmaya Sri Rama Seshu Pasupuleti](https://github.com/Ramaseshu0)
 - Original project by Varma Prasad S
 
 ## Skills
 Python, SQL, Informatica PowerCenter, AWS, Snowflake, Apache Spark, PySpark, Shell Scripting
-
-## Links
-
-- LinkedIn: https://www.linkedin.com/in/rama-seshu/
-- Email: pramaseshu@outlook.com
-
-## About the Developer
-Chinmaya Sri Rama Seshu Pasupuleti is a Data Engineer with over 4 years of experience building enterprise data pipelines, cloud-based ETL/ELT workflows, and analytical data platforms. He specializes in Python, SQL, and Informatica PowerCenter, with a strong focus on data quality, reconciliation, and pipeline orchestration.
